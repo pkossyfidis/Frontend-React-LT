@@ -5,11 +5,9 @@ import Student from "./components/Student";
 import Professor from "./components/Professor";
 import Card from "./components/Card";
 import Navbar from "./components/Navbar";
-import Essays from "./components/Essays";
 import ProfessorPage from "./components/ProfessorPage";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import Miscard from "./components/Miscard";
-import PropTypes from "prop-types";
+
 
 const customStyles = {
   overlay: {

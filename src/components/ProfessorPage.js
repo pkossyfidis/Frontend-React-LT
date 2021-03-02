@@ -17,7 +17,6 @@ import {
   Legend,
   Pie,
 } from "recharts";
-import Miscard from "./Miscard";
 
 const data = [
   {
